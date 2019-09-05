@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: gray;
+}
+.self-intro{
+background-color: #EBEBEB; 
+height: 600px;
+}
+.self-intro.intro-speech{
+padding-top: 150px;
+padding-left: 150px;
+width: 800px;
+height: 700px;
+display: inline-flex;
+}
+.about-container{
+    background-color: #fff;
+    padding-top: 100px;
+    padding-left: 150px;
+    display: inline-flex;
+}
+.about-container .about-text{
+    width: 700px;
+    margin-left: 50px;
+}
+.skills-container{
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    background-color: #363732;
+    color: #EBEBEB; 
+}
+.skills-container .skills{
+    display: inline-flex;
+}
+.skills .the-skill{
+height: 100px;
+width: 100px;
+border: 1px solid #FEC62F;
+border-radius: 50%;
+text-align: center;
+margin-left: 100px;
+}
+.skills .the-skill div{
+padding-top: 40px;
+}
+
